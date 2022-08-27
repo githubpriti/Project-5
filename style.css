@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+  }
+body{
+    background-image: url(./assets/background\ img.png); 
+    background-size: cover; 
+  } 
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 31px 83px; 
+    height: 92px;
+    background-color: #000;
+    margin: 0;
+  }
+.line{
+    width: 1px;
+    height: 50px;
+    background-color: #fff;
+    margin-left: 63px;
+}
+.grow-list{
+    flex-grow: 1;
+}
+img{
+    width: 92px;
+    height: 32px;
+}
+.list{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    color: #ffffff;
+    gap: 63px;
+    font-family:"Poppins" ;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 64px;
+}
+.list-item{
+    cursor: pointer;
+}
+.button-small{
+    background: #ba0cc5;;
+    color: #ffffff;
+    border:none;
+    border-radius: 8px;
+    padding: 7px 28px;
+    font-family: "Poppins";
+    font-weight: 600;
+    font-size: 16px;
+    line-height:24px ;
+    cursor: pointer;
+}
+.hero{
+    text-align: center;
+     /* background-image: url(./background\ img.png);    */
+     /* background-size: cover;   */
+    /* background-attachment: fixed; */
+    height: 91vh; 
+    max-width: 1150px; 
+    margin: 0 auto; 
+     margin-top: 100px; 
+
+}
+
+.hero-heading{
+    font-family: "Montserrat";
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 98px;
+    color: #ffffff
+}
+.hero-description{
+    font-family: "Montserrat";
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;
+    color: #ffffff;
+    margin-bottom:30px; 
+}
+.button-large{
+    background-color: #cc00cc;
+    color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    padding: 16px 25px;
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 45px;
+    cursor: pointer;
+    margin-top: 40px;
+}
