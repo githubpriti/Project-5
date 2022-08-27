@@ -1,6 +1,6 @@
 # Project 5:
 
-[Live link](http://127.0.0.1:5500/index.html)
+[Live link](https://dreamy-crumble-20a660.netlify.app)
 
 ## Name:Vaishnavi Jaju
 
