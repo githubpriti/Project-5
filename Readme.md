@@ -1,6 +1,6 @@
 # Project 5:
 
-[Live link](https://dreamy-crumble-20a660.netlify.app)
+[Live link](https://project-5-dusky.vercel.app/)
 
 ## Name:Vaishnavi Jaju
 
